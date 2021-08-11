@@ -8,6 +8,7 @@ class MyUtils:
         self.token = None
         self.foo = None
         self.boo = None
+        self.lol = None
 
     def set_name(self, name):
         self.name = name
