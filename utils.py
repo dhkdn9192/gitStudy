@@ -4,6 +4,7 @@ class MyUtils:
     def __init__(self):
         self.address = None
         self.name = None
+        self.pw = None
 
     def set_name(self, name):
         self.name = name
@@ -16,3 +17,6 @@ class MyUtils:
 
     def get_addr(self):
         return self.address
+
+    def set_pw(self, pw):
+        self.pw = pw
