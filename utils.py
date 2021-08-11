@@ -5,6 +5,7 @@ class MyUtils:
         self.address = None
         self.name = None
         self.pw = None
+        self.age = None
 
     def set_name(self, name):
         self.name = name
@@ -23,3 +24,6 @@ class MyUtils:
 
     def get_pw(self):
         return self.pw
+
+    def set_age(self, age):
+        self.age = age
