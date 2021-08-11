@@ -2,7 +2,7 @@
 
 class MyUtils:
     def __init__(self):
-        self.address = None
+        self.addr = None
         self.name = None
         self.pw = None
 
@@ -13,10 +13,10 @@ class MyUtils:
         return self.name
 
     def set_addr(self, addr):
-        self.address = addr
+        self.addr = addr
 
     def get_addr(self):
-        return self.address
+        return self.addr
 
     def set_pw(self, pw):
         self.pw = pw
