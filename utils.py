@@ -6,6 +6,7 @@ class MyUtils:
         self.name = None
         self.pw = None
         self.token = None
+        self.lol = None
 
     def set_name(self, name):
         self.name = name
