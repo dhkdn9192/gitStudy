@@ -20,3 +20,6 @@ class MyUtils:
 
     def set_pw(self, pw):
         self.pw = pw
+
+    def get_pw(self):
+        return self.pw
