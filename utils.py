@@ -5,6 +5,7 @@ class MyUtils:
         self.addr = None
         self.name = None
         self.pw = None
+        self.nope = None
         self.token = None
         self.foo = None
         self.boo = None
