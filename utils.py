@@ -9,6 +9,7 @@ class MyUtils:
         self.foo = None
         self.boo = None
         self.lol = None
+        self.mainval = None
 
     def set_name(self, name):
         self.name = name
