@@ -6,3 +6,4 @@ if __name__ == "__main__":
     print("after restart!")
     print("main")
     print("newbranch")
+    print("newbranch2")

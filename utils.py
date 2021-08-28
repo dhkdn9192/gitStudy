@@ -10,6 +10,7 @@ class MyUtils:
         self.boo = None
         self.lol = None
         self.mainval = None
+        self.newbranchval = None
 
     def set_name(self, name):
         self.name = name
