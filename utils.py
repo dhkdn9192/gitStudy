@@ -11,6 +11,7 @@ class MyUtils:
         self.lol = None
         self.mainval = None
 
+
     def set_name(self, name):
         self.name = name
 
